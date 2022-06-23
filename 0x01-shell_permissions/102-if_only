@@ -1,0 +1,2 @@
+#!/bin/bash
+chowin --from=guillaume bietty hello
